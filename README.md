@@ -22,8 +22,9 @@ The workflow for this repository follows the guidelines set out by the [Environm
 - **/L1**: Code to create L1 data products = cleaning & editing L0 data (includes R Markdown code & HTML/PDF output). 
 - **/L2**: Code to create derived products from L1 data (e.g., merging 2 or more L1 data products). Includes R Markdown code & HTML/PDF output.
 
-## Description of /data/ subdirectories in the project folders on the Google Shared Drive: IBEEM_Research
+## Description of subdirectories in the project folders on the Google Shared Drive: IBEEM_Research
 
+### data
 - **L0**: raw, L0 data files, & metadata. 
 - **L1**: L1 data products produced from scripts that clean & edit L0 data. 
 - **L2**: derived data products from L1 data (e.g., merging 2 or more L1 data products, creating a summary variables from L1 data; e.g., diversity of species in L1 data product).
