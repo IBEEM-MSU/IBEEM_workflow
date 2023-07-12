@@ -13,7 +13,7 @@ All repositories should follow R packaging guidelines, even if they will not bec
 
 The workflow for this repository follows the guidelines set out by the [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/). Briefly, this involves aligning with FAIR data practices, and employing a workflow that uses different levels for harmonization and derived data products. The overall workflow aligns with this EDI diagram: 
 
-<img src="[https://environmentaldatainitiative.files.wordpress.com/2019/04/harmonization_procedure_general.png](https://edirepository.org/static/images/thematic-standardization-workflow.png)" alt="hi" class="inline"/>
+<img src="[https://environmentaldatainitiative.files.wordpress.com/2019/04/harmonization_procedure_general.png]([https://edirepository.org/static/images/thematic-standardization-workflow.png](https://edirepository.org/static/images/thematic-standardization-workflow.png))" alt="hi" class="inline"/>
 
 ## Description of subdirectories in IBEEM-MSU GitHub Organization repositories (e.g., for R work).
 
