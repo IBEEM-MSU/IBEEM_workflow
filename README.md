@@ -11,9 +11,9 @@ These data are stored in a Google Shared Drive and the MSU HPCC IBEEM research s
 
 All repositories should follow R packaging guidelines, even if they will not become official R packages. For questions, contact Pat Bills. If you work with other programming languages, include a separate directory structure for that (e.g., python/L0). 
 
-The workflow for this repository follows the guidelines set out by the [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/). Briefly, this involves aligning with FAIR data practices, and employing a workflow that uses different levels for harmonization and derived data products. The overall workflow aligns with this EDI diagram: 
+The workflow for this repository follows the guidelines set out by the [Environmental Data Initiative (EDI)](https://edirepository.org/). Briefly, this involves aligning with FAIR data practices, and employing a workflow that uses different levels for harmonization and derived data products. The overall workflow aligns with this EDI diagram: 
 
-<img src="[https://environmentaldatainitiative.files.wordpress.com/2019/04/harmonization_procedure_general.png](https://edirepository.org/static/images/thematic-standardization-workflow.png)" alt="hi" class="inline"/>
+<img src="[https://edirepository.org/static/images/thematic-standardization-workflow.png](https://edirepository.org/static/images/thematic-standardization-workflow.png)" alt="hi" class="inline"/>
 
 ## Description of subdirectories in IBEEM-MSU GitHub Organization repositories (e.g., for R work).
 
