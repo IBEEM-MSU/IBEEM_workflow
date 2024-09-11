@@ -9,6 +9,8 @@ These data are stored in a Google Shared Drive and the MSU HPCC IBEEM research s
 
 ## Workflow
 
+Repositories within the IBEEM GitHub Organization should include README files that include key information about the workflow within the repository, the contributors, and the funding. Here is a [template README](https://github.com/NEON-biodiversity/template_repository) with filled-in examples for a NEON biodiversity project. The funding statement to include for IBEEM is included below in this README's "Funding" section.
+
 All repositories should follow R packaging guidelines, even if they will not become official R packages. For questions, contact Pat Bills. If you work with other programming languages, include a separate directory structure for that (e.g., python/L0). 
 
 The workflow for this repository follows the guidelines set out by the [Environmental Data Initiative (EDI)](https://edirepository.org/). Briefly, this involves aligning with FAIR data practices, and employing a workflow that uses different levels for harmonization and derived data products. The overall workflow aligns with this EDI diagram: 
@@ -37,7 +39,7 @@ The workflow for this repository follows the guidelines set out by the [Environm
 
 
 ## Funding 
-Funding is provided by Michigan State University Strategic Partnership Grant for IBEEM. 
+Funding is provided by Michigan State University through a Strategic Partnership Grant for [The Institute for Biodiversity, Ecology, Evolution, and Macrosystems (IBEEM)](https://ibeem.msu.edu/). 
 
 ## Authors of this repository
 
